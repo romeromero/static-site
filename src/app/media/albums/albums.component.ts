@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './albums.component.html',
   styleUrls: ['./albums.component.css']
 })
+
 export class AlbumsComponent {
 
 }
